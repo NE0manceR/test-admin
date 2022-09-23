@@ -21,6 +21,7 @@
     </style>
 </head>
 <body>
+<h1>Master</h1>
 <?php
 if (!empty($_SESSION['login'])) { ?>
     <div class="container">
