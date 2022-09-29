@@ -23,6 +23,7 @@
 <body>
 <h1>Master</h1>
 <h1>branch1</h1>
+
 <?php
 if (!empty($_SESSION['login'])) { ?>
     <div class="container">
@@ -39,7 +40,6 @@ if (!empty($_SESSION['login'])) { ?>
         </div>
     </div>
 <?php } ?>
-
 
 <script
         src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"
